@@ -438,7 +438,231 @@
                 "forks": 3
               }
             ]
-          }
+          },
+          {
+            "username": "divya_shah",
+            "handle": "@divya_shah",
+            "name": "Divya Shah",
+            "bio": "Frontend developer from Ahmedabad",
+            "works at": "Infosys",
+            "repositories": 9,
+            "followers": 23,
+            "pinned repositories": [
+              {
+                "name": "react-native-template",
+                "description": "A template for React Native projects",
+                "language": "JavaScript",
+                "stars": 16,
+                "forks": 2
+              },
+              {
+                "name": "angular-shopping-cart",
+                "description": "A shopping cart app built with Angular",
+                "language": "TypeScript",
+                "stars": 11,
+                "forks": 3
+              },
+              {
+                "name": "django-blog-app",
+                "description": "A simple blog app built with Django",
+                "language": "Python",
+                "stars": 8,
+                "forks": 1
+              }
+            ]
+          },
+          {
+            "username": "aditi_joshi",
+            "handle": "@aditi_joshi",
+            "name": "Aditi Joshi",
+            "bio": "Backend developer from Surat",
+            "works at": "Capgemini",
+            "repositories": 13,
+            "followers": 27,
+            "pinned repositories": [
+              {
+                "name": "laravel-rest-api",
+                "description": "A REST API built with Laravel",
+                "language": "PHP",
+                "stars": 21,
+                "forks": 7
+              },
+              {
+                "name": "react-redux-app",
+                "description": "A starter kit for React + Redux projects",
+                "language": "JavaScript",
+                "stars": 17,
+                "forks": 4
+              },
+              {
+                "name": "express-jwt",
+                "description": "A REST API with JWT authentication built with Express",
+                "language": "JavaScript",
+                "stars": 12,
+                "forks": 2
+              }
+            ]
+          },
+          {
+            "username": "aravind_nair",
+            "handle": "@aravind_nair",
+            "name": "Aravind Nair",
+            "bio": "Full-stack developer from Mumbai",
+            "works at": "Tata Consultancy Services",
+            "repositories": 8,
+            "followers": 14,
+            "pinned repositories": [
+              {
+                "name": "react-starter-kit",
+                "description": "A starter kit for React projects",
+                "language": "JavaScript",
+                "stars": 15,
+                "forks": 2
+              },
+              {
+                "name": "nodejs-authentication",
+                "description": "A simple authentication app built with Node.js",
+                "language": "JavaScript",
+                "stars": 10,
+                "forks": 3
+              },
+              {
+                "name": "django-blog-app",
+                "description": "A simple blog app built with Django",
+                "language": "Python",
+                "stars": 8,
+                "forks": 1
+              }
+            ]
+          },
+          {
+            "username": "smita_sharma",
+            "handle": "@smita_sharma",
+            "name": "Smita Sharma",
+            "bio": "UI/UX designer from Delhi",
+            "works at": "Wipro",
+            "repositories": 6,
+            "followers": 19,
+            "pinned repositories": [
+              {
+                "name": "design-system",
+                "description": "A design system for web and mobile applications",
+                "language": "CSS",
+                "stars": 12,
+                "forks": 1
+              },
+              {
+                "name": "material-ui-template",
+                "description": "A template for Material UI projects",
+                "language": "JavaScript",
+                "stars": 8,
+                "forks": 2
+              },
+              {
+                "name": "responsive-web-design",
+                "description": "A collection of responsive web designs",
+                "language": "HTML/CSS",
+                "stars": 5,
+                "forks": 0
+              }
+            ]
+          },
+          {
+            "username": "rohit_singh",
+            "handle": "@rohit_singh",
+            "name": "Rohit Singh",
+            "bio": "Frontend developer from Jaipur",
+            "works at": "IBM",
+            "repositories": 12,
+            "followers": 32,
+            "pinned repositories": [
+              {
+                "name": "react-admin-panel",
+                "description": "An admin panel for React projects",
+                "language": "JavaScript",
+                "stars": 19,
+                "forks": 4
+              },
+              {
+                "name": "angular-todo-app",
+                "description": "A todo app built with Angular",
+                "language": "TypeScript",
+                "stars": 14,
+                "forks": 2
+              },
+              {
+                "name": "django-rest-framework",
+                "description": "A REST API built with Django and Django REST Framework",
+                "language": "Python",
+                "stars": 11,
+                "forks": 3
+              }
+            ]
+          },
+          {
+            "username": "aniket_mishra",
+            "handle": "@aniket_mishra",
+            "name": "Aniket Mishra",
+            "bio": "Backend developer from Lucknow",
+            "works at": "Accenture",
+            "repositories": 7,
+            "followers": 4,
+            "pinned repositories": [
+                {
+                  "name": "express-starter-kit",
+                  "description": "A starter kit for Express.js projects",
+                  "language": "JavaScript",
+                  "stars": 17,
+                  "forks": 5
+                },
+                {
+                  "name": "laravel-blog-app",
+                  "description": "A blog app built with Laravel",
+                  "language": "PHP",
+                  "stars": 13,
+                  "forks": 2
+                },
+                {
+                  "name": "django-ecommerce",
+                  "description": "An ecommerce website built with Django",
+                  "language": "Python",
+                  "stars": 8,
+                  "forks": 1
+                }
+              ]
+            },
+            {
+                "username": "priti_singh",
+                "handle": "@priti_singh",
+                "name": "Priti Singh",
+                "bio": "Data scientist from Bangalore",
+                "works at": "Amazon",
+                "repositories": 10,
+                "followers": 25,
+                "pinned repositories": [
+                  {
+                    "name": "machine-learning-algorithms",
+                    "description": "Implementation of various machine learning algorithms",
+                    "language": "Python",
+                    "stars": 22,
+                    "forks": 4
+                  },
+                  {
+                    "name": "data-visualization",
+                    "description": "A collection of data visualization examples",
+                    "language": "Python",
+                    "stars": 17,
+                    "forks": 3
+                  },
+                  {
+                    "name": "deep-learning-tutorial",
+                    "description": "A tutorial for deep learning with TensorFlow",
+                    "language": "Python",
+                    "stars": 13,
+                    "forks": 2
+                  }
+                ]
+              }
     
     ]
 }
