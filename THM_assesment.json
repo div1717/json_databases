@@ -8,7 +8,7 @@
             "works_at" : "Infosys",
             "repositories" : 12,
             "followers" : 53,
-            "pinned repositories" : [
+            "pinned_repositories" : [
                 {
                     "name" : "my-portfolio",
                     "description" : "My personal portfolio website built with React",
@@ -37,7 +37,7 @@
             "works_at" : "Tata Consultancy Services",
             "repositories" : 17,
             "followers" : 98,
-            "pinned repositories" : [
+            "pinned_repositories" : [
                 {
                     "name" : "cool-react-library",
                     "description" : "A cool React library that makes life easier",
@@ -66,7 +66,7 @@
             "works_at" : "Wipro",
             "repositories" : 25,
             "followers" : 132,
-            "pinned repositories" : [
+            "pinned_repositories" : [
                 {
                     "name" : "angular-app",
                     "description" : "A web app built with Angular",
@@ -95,7 +95,7 @@
             "works_at": "Amazon",
             "repositories": 22,
             "followers": 87,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "django-blog",
                 "description": "A blog built with Django",
@@ -127,7 +127,7 @@
             "works_at": "Google",
             "repositories": 13,
             "followers": 72,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-components",
                 "description": "A library of reusable React components",
@@ -159,7 +159,7 @@
             "works_at": "Microsoft",
             "repositories": 28,
             "followers": 95,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-native-app",
                 "description": "A mobile app built with React Native",
@@ -191,7 +191,7 @@
             "works_at": "IBM",
             "repositories": 18,
             "followers": 79,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "angular-chat",
                 "description": "A chat application built with Angular",
@@ -223,7 +223,7 @@
             "works_at": "Tata Consultancy Services",
             "repositories": 23,
             "followers": 94,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-calendar",
                 "description": "A customizable calendar component built with React",
@@ -255,7 +255,7 @@
             "works_at": "Wipro",
             "repositories": 15,
             "followers": 58,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "nodejs-jwt-auth",
                 "description": "A simple authentication API built with Node.js and JWT",
@@ -287,7 +287,7 @@
             "works_at": "Infosys",
             "repositories": 9,
             "followers": 36,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-shopping-cart",
                 "description": "A simple shopping cart application built with React",
@@ -319,7 +319,7 @@
             "works_at": "Cognizant",
             "repositories": 14,
             "followers": 45,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "angular-todo-app",
                 "description": "A to-do list app built with Angular",
@@ -351,7 +351,7 @@
             "works_at": "Accenture",
             "repositories": 12,
             "followers": 38,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "pandas-tutorial",
                 "description": "A tutorial on using Pandas for data analysis",
@@ -383,7 +383,7 @@
             "works_at": "TCS",
             "repositories": 18,
             "followers": 41,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "vuejs-todo-app",
                 "description": "A to-do list app built with Vue.js",
@@ -415,7 +415,7 @@
             "works_at": "Wipro",
             "repositories": 10,
             "followers": 29,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "ionic-angular-app",
                 "description": "A starter kit for Ionic + Angular projects",
@@ -447,7 +447,7 @@
             "works_at": "Infosys",
             "repositories": 9,
             "followers": 23,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-native-template",
                 "description": "A template for React Native projects",
@@ -479,7 +479,7 @@
             "works_at": "Capgemini",
             "repositories": 13,
             "followers": 27,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "laravel-rest-api",
                 "description": "A REST API built with Laravel",
@@ -511,7 +511,7 @@
             "works_at": "Tata Consultancy Services",
             "repositories": 8,
             "followers": 14,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-starter-kit",
                 "description": "A starter kit for React projects",
@@ -543,7 +543,7 @@
             "works_at": "Wipro",
             "repositories": 6,
             "followers": 19,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "design-system",
                 "description": "A design system for web and mobile applications",
@@ -575,7 +575,7 @@
             "works_at": "IBM",
             "repositories": 12,
             "followers": 32,
-            "pinned repositories": [
+            "pinned_repositories": [
               {
                 "name": "react-admin-panel",
                 "description": "An admin panel for React projects",
@@ -607,7 +607,7 @@
             "works_at": "Accenture",
             "repositories": 7,
             "followers": 4,
-            "pinned repositories": [
+            "pinned_repositories": [
                 {
                   "name": "express-starter-kit",
                   "description": "A starter kit for Express.js projects",
@@ -639,7 +639,7 @@
                 "works_at": "Amazon",
                 "repositories": 10,
                 "followers": 25,
-                "pinned repositories": [
+                "pinned_repositories": [
                   {
                     "name": "machine-learning-algorithms",
                     "description": "Implementation of various machine learning algorithms",
