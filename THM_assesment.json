@@ -5,7 +5,7 @@
             "handle" : "@ananya_kumar",
             "name" : "Ananya Kumar",
             "bio" : "Software developer from Bangalore",
-            "works at" : "Infosys",
+            "works_at" : "Infosys",
             "repositories" : 12,
             "followers" : 53,
             "pinned repositories" : [
@@ -34,7 +34,7 @@
             "handle" : "@akash_sharma",
             "name" : "Akash Sharma",
             "bio" : "Full-stack developer from Delhi",
-            "works at" : "Tata Consultancy Services",
+            "works_at" : "Tata Consultancy Services",
             "repositories" : 17,
             "followers" : 98,
             "pinned repositories" : [
@@ -63,7 +63,7 @@
             "handle" : "@divya_patel",
             "name" : "Divya Patel",
             "bio" : "Front-end developer from Mumbai",
-            "works at" : "Wipro",
+            "works_at" : "Wipro",
             "repositories" : 25,
             "followers" : 132,
             "pinned repositories" : [
@@ -92,7 +92,7 @@
             "handle": "@aravind_reddy",
             "name": "Aravind Reddy",
             "bio": "Backend developer from Hyderabad",
-            "works at": "Amazon",
+            "works_at": "Amazon",
             "repositories": 22,
             "followers": 87,
             "pinned repositories": [
@@ -124,7 +124,7 @@
             "handle": "@pooja_mishra",
             "name": "Pooja Mishra",
             "bio": "Front-end developer from Pune",
-            "works at": "Google",
+            "works_at": "Google",
             "repositories": 13,
             "followers": 72,
             "pinned repositories": [
@@ -156,7 +156,7 @@
             "handle": "@manoj_kumar",
             "name": "Manoj Kumar",
             "bio": "Full-stack developer from Jaipur",
-            "works at": "Microsoft",
+            "works_at": "Microsoft",
             "repositories": 28,
             "followers": 95,
             "pinned repositories": [
@@ -188,7 +188,7 @@
             "handle": "@siddharth_gupta",
             "name": "Siddharth Gupta",
             "bio": "Full-stack developer from Delhi",
-            "works at": "IBM",
+            "works_at": "IBM",
             "repositories": 18,
             "followers": 79,
             "pinned repositories": [
@@ -220,7 +220,7 @@
             "handle": "@sneha_shah",
             "name": "Sneha Shah",
             "bio": "Front-end developer from Ahmedabad",
-            "works at": "Tata Consultancy Services",
+            "works_at": "Tata Consultancy Services",
             "repositories": 23,
             "followers": 94,
             "pinned repositories": [
@@ -252,7 +252,7 @@
             "handle": "@rahul_sharma",
             "name": "Rahul Sharma",
             "bio": "Backend developer from Chandigarh",
-            "works at": "Wipro",
+            "works_at": "Wipro",
             "repositories": 15,
             "followers": 58,
             "pinned repositories": [
@@ -284,7 +284,7 @@
             "handle": "@vivek_mishra",
             "name": "Vivek Mishra",
             "bio": "Software engineer from Lucknow",
-            "works at": "Infosys",
+            "works_at": "Infosys",
             "repositories": 9,
             "followers": 36,
             "pinned repositories": [
@@ -316,7 +316,7 @@
             "handle": "@sanjana_reddy",
             "name": "Sanjana Reddy",
             "bio": "Front-end developer from Hyderabad",
-            "works at": "Cognizant",
+            "works_at": "Cognizant",
             "repositories": 14,
             "followers": 45,
             "pinned repositories": [
@@ -348,7 +348,7 @@
             "handle": "@arvind_gupta",
             "name": "Arvind Gupta",
             "bio": "Data analyst from Mumbai",
-            "works at": "Accenture",
+            "works_at": "Accenture",
             "repositories": 12,
             "followers": 38,
             "pinned repositories": [
@@ -380,7 +380,7 @@
             "handle": "@priyanka_jain",
             "name": "Priyanka Jain",
             "bio": "Full-stack developer from Delhi",
-            "works at": "TCS",
+            "works_at": "TCS",
             "repositories": 18,
             "followers": 41,
             "pinned repositories": [
@@ -412,7 +412,7 @@
             "handle": "@manish_singh",
             "name": "Manish Singh",
             "bio": "Mobile app developer from Pune",
-            "works at": "Wipro",
+            "works_at": "Wipro",
             "repositories": 10,
             "followers": 29,
             "pinned repositories": [
@@ -444,7 +444,7 @@
             "handle": "@divya_shah",
             "name": "Divya Shah",
             "bio": "Frontend developer from Ahmedabad",
-            "works at": "Infosys",
+            "works_at": "Infosys",
             "repositories": 9,
             "followers": 23,
             "pinned repositories": [
@@ -476,7 +476,7 @@
             "handle": "@aditi_joshi",
             "name": "Aditi Joshi",
             "bio": "Backend developer from Surat",
-            "works at": "Capgemini",
+            "works_at": "Capgemini",
             "repositories": 13,
             "followers": 27,
             "pinned repositories": [
@@ -508,7 +508,7 @@
             "handle": "@aravind_nair",
             "name": "Aravind Nair",
             "bio": "Full-stack developer from Mumbai",
-            "works at": "Tata Consultancy Services",
+            "works_at": "Tata Consultancy Services",
             "repositories": 8,
             "followers": 14,
             "pinned repositories": [
@@ -540,7 +540,7 @@
             "handle": "@smita_sharma",
             "name": "Smita Sharma",
             "bio": "UI/UX designer from Delhi",
-            "works at": "Wipro",
+            "works_at": "Wipro",
             "repositories": 6,
             "followers": 19,
             "pinned repositories": [
@@ -572,7 +572,7 @@
             "handle": "@rohit_singh",
             "name": "Rohit Singh",
             "bio": "Frontend developer from Jaipur",
-            "works at": "IBM",
+            "works_at": "IBM",
             "repositories": 12,
             "followers": 32,
             "pinned repositories": [
@@ -604,7 +604,7 @@
             "handle": "@aniket_mishra",
             "name": "Aniket Mishra",
             "bio": "Backend developer from Lucknow",
-            "works at": "Accenture",
+            "works_at": "Accenture",
             "repositories": 7,
             "followers": 4,
             "pinned repositories": [
@@ -636,7 +636,7 @@
                 "handle": "@priti_singh",
                 "name": "Priti Singh",
                 "bio": "Data scientist from Bangalore",
-                "works at": "Amazon",
+                "works_at": "Amazon",
                 "repositories": 10,
                 "followers": 25,
                 "pinned repositories": [
@@ -666,4 +666,3 @@
     
     ]
 }
-
